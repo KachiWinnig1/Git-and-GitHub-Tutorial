@@ -1,0 +1,86 @@
+/* div{ */
+/* Color */
+/* background-color:red; */
+
+/* Width and height */
+/* width:100%;
+    max-width:70vw;
+    height:100vh; */
+
+/* Fonts */
+/* font-size:20px;
+    font-weight:400;
+    font-family:sans-serif; */
+
+/* Border */
+/* border:5px solid blue; */
+/* } */
+
+/* 
+.para-1{
+    color:red;
+}
+
+p{
+    color:blue;
+}
+
+#first-para{
+    color:aqua;
+} */
+
+/* .tits{
+    font-size:52px;
+}
+
+.Paragraph{
+    font-size:24px;
+}
+
+
+@media (max-width:480px){
+    .tits{
+        font-size:32px;
+    }
+    .Paragraph{
+    font-size:18px;
+}
+
+} */
+
+/* button{
+    transition:300ms;
+    background-color:blue;
+    color:white;
+} */
+
+/* button:hover{
+    background-color:aqua;
+    opacity:40%;
+    padding:2px;
+    color:black;
+} */
+
+/* Soother Elemeent?? */
+/* p::before{
+    content:" Hi! My name is ";
+    background-color:aqua;
+    color:red;
+    margin:4px;
+    padding:5px;
+} */
+
+/* 
+
+@keyframes pointdown{
+    0%{
+        transform:translateY(0)
+    }
+    100%{
+        transform:translateY(16px);
+    }
+}
+
+p{
+    animation:pointdown 1000ms infinite alternate-reverse;
+} */
